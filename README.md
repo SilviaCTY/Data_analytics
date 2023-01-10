@@ -18,8 +18,8 @@
 * 數據蒐集的時間為2015年到2018年間的數據
 * 欄位名稱其意義為:order_id：該筆訂單的代號; Order Date:該筆訂單日期 ; Ship Date:該筆訂單運送日期; Ship Mode:該筆訂單運送方式; Customer ID：該筆顧客的代號; Customer Name:該筆顧客的代號 ; Segment：該筆訂單購買的顧客屬於哪種市場; Country:該筆訂單的國家 ; City:該筆訂單的城市 ; State:該筆訂單的州 ; Postal Code:該筆訂單的郵遞區號 ; Region:該筆訂單的地區 ; Product ID：該筆訂單購買商品內容的代號; Category：該筆商品所屬的分類; Sub-Category:該筆商品所屬的子分類 ; Product Name：該筆分類的名稱; Sales：該筆總消費金額。
 * 數據處裡的目標: 
-  * 處理Postal Code中的空值。
-  * 客戶分析
+  '處理Postal Code中的空值。'
+  '客戶分析'
    1. RFM分析。
    1. 找出消費金額最大的顧客。
   * 區域分析
