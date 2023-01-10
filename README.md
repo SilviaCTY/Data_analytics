@@ -6,7 +6,7 @@
 * 數據蒐集的時間為1958年到2021年間的數據
 * 欄位名稱其意義為: date: Date of chart; rank: Rank of song; song: Song title; artist: Song artist; last-week: Rank in previous week; peak-rank: Top rank achieved by the song; weeks-on-board: Weeks the song appeared on the chart
 * 數據處裡的目標: 
- 1. 處理last-week空值。2.2020年有多少新歌。3.2020年每個月的新歌。4.2020年有哪些新歌進榜就拿到第一名。5前10首在Billboard停留時間最久的歌。6.獲得最多次第一名的歌手。7.上榜最多次的藝人。
+>> 1.處理last-week空值。2.2020年有多少新歌。3.2020年每個月的新歌。4.2020年有哪些新歌進榜就拿到第一名。5前10首在Billboard停留時間最久的歌。6.獲得最多次第一名的歌手。7.上榜最多次的藝人。
 ## 數據分析HW
 * 數據來源Kaggle的"Superstore Sales Dataset"
 * 數據蒐集的時間為2015年到2018年間的數據
